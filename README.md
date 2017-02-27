@@ -6,7 +6,7 @@
 
 ### Shopkeeper Quiz
 
-CTF Not yet finished
+https://github.com/berurier/CTF/blob/master/Xiomara_Misc_200_Shopkeeper_Quiz.py
 
 ### Tech Quiz
 
